@@ -32,6 +32,7 @@ libc = "0.2"
 hoedown = "5.0"
 badge = { version = "0", path = "src/web/badge" }
 error-chain = "0.5"
+toml = "0.2"
 
 [dependencies.cargo]
 git = "https://github.com/rust-lang/cargo.git"
